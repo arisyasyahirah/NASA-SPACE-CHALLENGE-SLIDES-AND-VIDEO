@@ -9,7 +9,7 @@ A self-check and emergency guidance app for astronauts on deep space missions, w
 
 | | |
 |---|---|
-| Slides | [Crew_Health_Monitor_Deck.pdf](https://canva.link/y5laiuvsmm9zjbr) |
+| Slides | [Crew_Health_Monitor_Deck](https://canva.link/y5laiuvsmm9zjbr) |
 | 30-second demo video | [Watch on YouTube](PASTE_VIDEO_LINK_HERE) |
 | Live app | [Open the app](https://crew-health-monitor-blond.vercel.app) |
 | App code | [GitHub repository](https://github.com/arisyasyahirah/crew-health-monitor.git) |
