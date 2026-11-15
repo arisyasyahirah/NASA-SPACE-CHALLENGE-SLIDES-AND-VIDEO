@@ -27,13 +27,13 @@ A self-check and emergency guidance app for astronauts on deep space missions, w
 | Name | Role |
 |---|---|
 | Arisya Syahirah Binti Azizi | Team owner, development |
-| Muhammad Danish Haikal Bin Hamdan | Development |
+| Muhammad Danish Haikal Bin Hamdan | Design and media |
 | Nur Fatin Umairah Binti Nor Azam | Design and media |
 | Puteri Balqis Abd Razak | Medical research |
 | Anantojo Mendan Anak Roselina Lunsa | Development |
 | Daiyan Irfan bin Hezrin | Design and media |
 
-Universiti Malaysia Terengganu, Malaysia
+Malaysia
 
 ## Notes
 
